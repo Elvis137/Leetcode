@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Elvis137/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Elvis137/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
