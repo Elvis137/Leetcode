@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long maxProduct(vector<int>& nums) {
-        long long f1=1,f2=1,first=0,seco=0;
+        long long first=0,seco=0;
        for(int i=0;i<nums.size();i++)
        {
         if(abs(nums[i])>first)
