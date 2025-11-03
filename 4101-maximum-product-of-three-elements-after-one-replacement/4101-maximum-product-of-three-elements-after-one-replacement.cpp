@@ -8,15 +8,11 @@ public:
         {
             if(first>seco)seco=first;
         first=abs(nums[i]);
-        if(nums[i]<0)f1=-1;
-        else f1=1;
         
         }
         else if(abs(nums[i])==first||abs(nums[i])>seco)
         {
         seco=abs(nums[i]);
-        if(nums[i]<0)f2=-1;
-        else f2=1;
 
         }
 
