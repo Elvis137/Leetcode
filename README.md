@@ -7,14 +7,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Elvis137/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Elvis137/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Elvis137/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Elvis137/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Matrix
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
+## Backtracking
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
