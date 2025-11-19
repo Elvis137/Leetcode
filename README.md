@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Elvis137/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Elvis137/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -23,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -35,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
