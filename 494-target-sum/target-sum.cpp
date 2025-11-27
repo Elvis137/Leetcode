@@ -1,23 +1,26 @@
 class Solution {
 public:
-void recur(vector<int>&nums,int tar,int st,int &c,int sum)
+int dp[21][2001];
+int recur(vector<int>&nums,int tar,int st,int sum)
 {
     if(sum==tar&&st==nums.size())
     {
-    c++;
-    return;
+    return 1;
     }
-    if(st>=nums.size())return;
+    if(st>=nums.size())return 0;
+    if(dp[st][sum+1000]!=-1)return dp[st][sum+1000];
       
-        recur(nums,tar,st+1,c,sum+nums[st]);
+      int a=  recur(nums,tar,st+1,sum+nums[st]);
       
-        recur(nums,tar,st+1,c,sum-nums[st]);
+     int b= recur(nums,tar,st+1,sum-nums[st]);
+        return dp[st][sum+1000]=a+b;
     
 }
     int findTargetSumWays(vector<int>& nums, int target) {
+   memset(dp, -1, sizeof(dp));
+  
         int c=0;
-        recur(nums,target,0,c,0);
-        return c;
+        return recur(nums,target,0,0);
         
     }
 };
