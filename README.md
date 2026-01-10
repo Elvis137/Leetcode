@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Elvis137/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Elvis137/Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0784-letter-case-permutation](https://github.com/Elvis137/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Elvis137/Leetcode/tree/master/0078-subsets) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Elvis137/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0784-letter-case-permutation](https://github.com/Elvis137/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/Elvis137/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Elvis137/Leetcode/tree/master/0079-word-search) |
+| [0784-letter-case-permutation](https://github.com/Elvis137/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
 | ------- |
