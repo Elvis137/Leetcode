@@ -1,30 +1,28 @@
 class Solution {
-public:
-void recur(vector<int>& nums,vector<int>&v,vector<vector<int>>&ans,vector<int>&a)
-{
-    if(v.size()==nums.size()){ans.push_back(v);
-    return ;}
-    
-        for(int i=0;i<nums.size();i++)
+    void recurse(int ind,vector<int>&ds,vector<vector<int>>&ans)
+    {
+        int i=0;
+        if(ind==ds.size())
         {
-            if(!a[i]){
-                a[i]=1;
-                v.push_back(nums[i]);
-                recur(nums,v,ans,a);
-                a[i]=0;
-                v.pop_back();
-            }
-        }  
-
-}
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<int>v;
-        int n=nums.size();
-        vector<int>a(n,0);
-        vector<vector<int>>ans;
-        recur(nums,v,ans,a);
-    return ans;
-
+            ans.push_back(ds);
+            return;
+            
+        }
         
+        for(i=ind;i<ds.size();i++)
+        {
+            swap(ds[ind],ds[i]);
+              recurse(ind+1,ds,ans);
+              swap(ds[ind],ds[i]);
+
+        }   
+
+         }
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>>ans;
+        recurse(0,nums,ans);
+        
+     return ans;   
     }
 };
