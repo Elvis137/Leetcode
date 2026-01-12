@@ -14,7 +14,7 @@ void recur(vector<int>&nums,vector<int>&v,vector<vector<int>>&ans,vector<int>&a)
     {
         if(!a[i])
         {
-            if(i>0&&nums[i]==nums[i-1]&&a[i-1]){continue;}
+            if(i>0&&nums[i]==nums[i-1]&&!a[i-1]){continue;}
             a[i]=1;
             v.push_back(nums[i]);
             recur(nums,v,ans,a);
