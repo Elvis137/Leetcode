@@ -2,11 +2,11 @@ class Solution {
 public:
 
 
-void recur(vector<int>&nums,vector<int>&v,set<vector<int>>&s,vector<int>&a)
+void recur(vector<int>&nums,vector<int>&v,vector<vector<int>>&ans,vector<int>&a)
 {
     if(v.size()==nums.size())
     {
-        s.insert(v);
+        ans.push_back(v);
         return;
     }
     for(int i=0;i<nums.size();i++)
@@ -14,15 +14,15 @@ void recur(vector<int>&nums,vector<int>&v,set<vector<int>>&s,vector<int>&a)
     {
         if(!a[i])
         {
-            //if(v[v.size()-1]!=nums[i]){
+            if(i>0&&nums[i]==nums[i-1]&&a[i-1]){continue;}
             a[i]=1;
             v.push_back(nums[i]);
-            recur(nums,v,s,a);
+            recur(nums,v,ans,a);
             a[i]=0;
             v.pop_back();
-           // }
-
         }
+
+        
 
     }
 }
@@ -31,13 +31,7 @@ void recur(vector<int>&nums,vector<int>&v,set<vector<int>>&s,vector<int>&a)
          sort(nums.begin(),nums.end());
         vector<int>a(nums.size(),0);
         vector<int>v;
-        set<vector<int>>s;
-        recur(nums,v,s,a);
-        for(auto i:s)
-        {
-            ans.push_back(i);
-            
-        }
+        recur(nums,v,ans,a);
         return ans;
         
     }
