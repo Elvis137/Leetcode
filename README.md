@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Elvis137/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Elvis137/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Elvis137/Leetcode/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/Elvis137/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Elvis137/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Elvis137/Leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Elvis137/Leetcode/tree/master/0120-triangle) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Elvis137/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/Elvis137/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Elvis137/Leetcode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Elvis137/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Elvis137/Leetcode/tree/master/0047-permutations-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Elvis137/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
