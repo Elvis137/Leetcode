@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Elvis137/Leetcode/tree/master/0079-word-search) |
+| [0567-permutation-in-string](https://github.com/Elvis137/Leetcode/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/Elvis137/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Elvis137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Elvis137/Leetcode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Elvis137/Leetcode/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Elvis137/Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Elvis137/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
