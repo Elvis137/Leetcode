@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Elvis137/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Elvis137/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Elvis137/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Elvis137/Leetcode/tree/master/0045-jump-game-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Elvis137/Leetcode/tree/master/0031-next-permutation) |
 | [0567-permutation-in-string](https://github.com/Elvis137/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
